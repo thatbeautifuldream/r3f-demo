@@ -1,4 +1,4 @@
-# This is a demo repository for trying out React THREE Fiber with Vite
+# React Three Fiber w/ Vite
 
 - This repository was cloned from [mattrossman/r3f-vite](https://github.com/mattrossman/r3f-vite)
 
