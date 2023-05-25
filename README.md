@@ -1,12 +1,16 @@
-## Copy template
+# This is a demo repository for trying out React THREE Fiber with Vite
+
+- This repository was cloned from [mattrossman/r3f-vite](https://github.com/mattrossman/r3f-vite)
+
+## To copy template use
 
 ```console
 npx tiged mattrossman/r3f-vite
 ```
 
-## Setup and run
+## To setup and run
 
 ```console
-yarn
-yarn dev
+npm i
+npm run dev
 ```
